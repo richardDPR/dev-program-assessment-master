@@ -1,0 +1,17 @@
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\AssessmentConsole\bin\Debug\netcoreapp3.1\AssessmentConsole.exe
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\AssessmentConsole\bin\Debug\netcoreapp3.1\AssessmentConsole.deps.json
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\AssessmentConsole\bin\Debug\netcoreapp3.1\AssessmentConsole.runtimeconfig.json
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\AssessmentConsole\bin\Debug\netcoreapp3.1\AssessmentConsole.runtimeconfig.dev.json
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\AssessmentConsole\bin\Debug\netcoreapp3.1\AssessmentConsole.dll
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\AssessmentConsole\bin\Debug\netcoreapp3.1\AssessmentConsole.pdb
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\AssessmentConsole\bin\Debug\netcoreapp3.1\Assessment.dll
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\AssessmentConsole\bin\Debug\netcoreapp3.1\Assessment.pdb
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\AssessmentConsole\obj\Debug\netcoreapp3.1\AssessmentConsole.csproj.AssemblyReference.cache
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\AssessmentConsole\obj\Debug\netcoreapp3.1\AssessmentConsole.GeneratedMSBuildEditorConfig.editorconfig
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\AssessmentConsole\obj\Debug\netcoreapp3.1\AssessmentConsole.AssemblyInfoInputs.cache
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\AssessmentConsole\obj\Debug\netcoreapp3.1\AssessmentConsole.AssemblyInfo.cs
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\AssessmentConsole\obj\Debug\netcoreapp3.1\AssessmentConsole.csproj.CoreCompileInputs.cache
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\AssessmentConsole\obj\Debug\netcoreapp3.1\AssessmentConsole.csproj.CopyComplete
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\AssessmentConsole\obj\Debug\netcoreapp3.1\AssessmentConsole.dll
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\AssessmentConsole\obj\Debug\netcoreapp3.1\AssessmentConsole.pdb
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\AssessmentConsole\obj\Debug\netcoreapp3.1\AssessmentConsole.genruntimeconfig.cache

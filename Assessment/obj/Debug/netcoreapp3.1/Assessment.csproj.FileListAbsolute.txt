@@ -1,0 +1,10 @@
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\Assessment\bin\Debug\netcoreapp3.1\Assessment.deps.json
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\Assessment\bin\Debug\netcoreapp3.1\Assessment.dll
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\Assessment\bin\Debug\netcoreapp3.1\Assessment.pdb
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\Assessment\obj\Debug\netcoreapp3.1\Assessment.csproj.AssemblyReference.cache
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\Assessment\obj\Debug\netcoreapp3.1\Assessment.GeneratedMSBuildEditorConfig.editorconfig
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\Assessment\obj\Debug\netcoreapp3.1\Assessment.AssemblyInfoInputs.cache
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\Assessment\obj\Debug\netcoreapp3.1\Assessment.AssemblyInfo.cs
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\Assessment\obj\Debug\netcoreapp3.1\Assessment.csproj.CoreCompileInputs.cache
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\Assessment\obj\Debug\netcoreapp3.1\Assessment.dll
+G:\Development\Udemy\Visual Estudio\dev-program-assessment-master\Assessment\obj\Debug\netcoreapp3.1\Assessment.pdb
